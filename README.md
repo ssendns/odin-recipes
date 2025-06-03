@@ -1,2 +1,2 @@
 # odin-recipes
-Hi! It is my assignment for The Odin Project into course 
+Hi! This is my assignment for The Odin Project into course 
